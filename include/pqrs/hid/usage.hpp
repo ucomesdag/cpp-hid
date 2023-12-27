@@ -481,6 +481,8 @@ constexpr value_t expose_desktop(0x0011);
 constexpr value_t brightness_up(0x0020);
 constexpr value_t brightness_down(0x0021);
 constexpr value_t language(0x0030);
+constexpr value_t mission_control(0x029f);
+constexpr value_t spotlight(0x0221);
 } // namespace apple_vendor_keyboard
 
 //
